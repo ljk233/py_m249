@@ -147,7 +147,3 @@ opyn.stats.observationalstudies
 ```
 
 The example notebooks in this directory make use of the module.
-
-```python
-from opyn.stats import observationalstudies
-```
