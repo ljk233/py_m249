@@ -1,0 +1,9 @@
+exposure,outcome,stratum,count
+over 100mg,case,married,4
+over 100mg,control,married,5
+under 100mg,case,married,5
+under 100mg,control,married,103
+over 100mg,case,not married,10
+over 100mg,control,not married,3
+under 100mg,case,not married,5
+under 100mg,control,not married,43
