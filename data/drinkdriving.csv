@@ -1,0 +1,9 @@
+count,exposure,casecon,level
+4,over 100mg,case,married
+5,over 100mg,control,married
+5,under 100mg,case,married
+103,under 100mg,control,married
+10,over 100mg,case,not married
+3,over 100mg,control,not married
+5,under 100mg,case,not married
+43,under 100mg,control,not married
