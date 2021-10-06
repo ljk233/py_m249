@@ -14,7 +14,7 @@ has_bibtex=True@Fleming2003
 
 fields:
     count, int: Number of observation.
-    exposure, str: Did the the infant sleep on their front.
+    exposure, str: Sleeping position of infant.
                    One of either ['slept on front', 'did not sleep on front'].
     casecon, str: Case or control.
                   One of either ['case', 'control'].    

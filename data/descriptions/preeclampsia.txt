@@ -14,7 +14,7 @@ has_bibtex=True@Wilson2003
 
 fields:
     count, int: Number of observation.
-    exposure, str: Did the the patient have pre-eclampsia.
+    exposure, str: Pre-eclampsia and eclampsia during first pregnancy.
                    One of either ['pre-eclampsia', 'no pre-eclampsia'].
-    outcome, str: Did the the patient have hypertesion in later life
+    outcome, str: Hypertension in later life.
                   One of either ['hypertension', 'no hypertension'].
