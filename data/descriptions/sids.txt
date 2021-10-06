@@ -1,0 +1,20 @@
+title='Cot deaths and sleeping position'
+
+description='Results of a case-control study looking at the association between
+             the sleeping position of an infant and Sudden Infant Death
+             Syndrome (SIDS).'
+
+references='Fleming, P. J., Gilbert, R., Azaz, Y., Berry, P. J., Rudd,
+            P. T., Stewart, A., & Hall, E. (1990). Interaction between bedding
+            and sleeping position in the sudden infant death syndrome: a
+            population based case-control study. BMJ, 301(6743), 85–89.
+            https://doi.org/10.1136/bmj.301.6743.85'
+
+has_bibtex=True@Fleming2003
+
+fields:
+    count, int: Number of observation.
+    exposure, str: Did the the infant sleep on their front.
+                   One of either ['slept on front', 'did not sleep on front'].
+    casecon, str: Case or control.
+                  One of either ['case', 'control'].    
