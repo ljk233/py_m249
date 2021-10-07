@@ -8,7 +8,7 @@ references='Wilson, B. J., Watson, M. S., Prescott, G. J., Sunderland,
             S., Campbell, D. M., Hannaford, P., & Smith, W. C. S. (2003).
             Hypertensive diseases of pregnancy and risk of hypertension and
             stroke in later life: results from cohort study. BMJ, 326(7394),
-            845. https://doi.org/10.1136/bmj.326.7394.845'
+            845-849. https://doi.org/10.1136/bmj.326.7394.845'
 
 has_bibtex=True@Wilson2003
 

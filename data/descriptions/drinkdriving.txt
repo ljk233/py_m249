@@ -1,8 +1,8 @@
 title='Marital status, alcohol consumption and fatal car accidents'
 
-description='Result of a case-control study looking at the association between
+description='Result of a case-control study examining the association between
              alcohol consumption and fatal car accients. The study was
-             stratified on the marital status.'
+             stratified on marital status.'
 
 references='McCarroll, J. R., & Haddon Jr, W. (1962). A controlled study of
             fatal automobile accidents in New York City. Journal of Chronic
