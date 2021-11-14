@@ -1,0 +1,17 @@
+count,exposure,outcome,level
+5,fluoridated,caries,age 8 years
+25,fluoridated,no caries,age 8 years
+8,not fluoridated,caries,age 8 years
+23,not fluoridated,no caries,age 8 years
+0,fluoridated,caries,age 9 years
+17,fluoridated,no caries,age 9 years
+17,not fluoridated,caries,age 9 years
+33,not fluoridated,no caries,age 9 years
+5,fluoridated,caries,age 10 years
+13,fluoridated,no caries,age 10 years
+24,not fluoridated,caries,age 10 years
+14,not fluoridated,no caries,age 10 years
+5,fluoridated,caries,age 11-12 years
+16,fluoridated,no caries,age 11-12 years
+29,not fluoridated,caries,age 11-12 years
+25,not fluoridated,no caries,age 11-12 years

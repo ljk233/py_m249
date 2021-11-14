@@ -1,0 +1,5 @@
+count,cases,controls
+9,exposed,exposed
+37,exposed,not exposed
+16,not exposed,exposed
+82,not exposed,not exposed

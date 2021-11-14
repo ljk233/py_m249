@@ -1,4 +1,4 @@
-count,exposure,casecon,level
+count,exposure,outcome,level
 4,over 100mg,case,married
 5,over 100mg,control,married
 5,under 100mg,case,married

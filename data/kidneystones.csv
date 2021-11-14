@@ -1,0 +1,9 @@
+count,exposure,outcome,level
+234,keyhole surgery,success,small stone
+36,keyhole surgery,failure,small stone
+81,open surgery,success,small stone
+6,open surgery,failure,small stone
+55,keyhole surgery,success,large stone
+25,keyhole surgery,failure,large stone
+192,open surgery,success,large stone
+71,open surgery,failure,large stone

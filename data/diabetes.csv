@@ -1,0 +1,9 @@
+count,exposure,outcome,level
+0,non-insulin,dead,over 40
+15,non-insulin,alive,over 40
+1,insulin,dead,over 40
+129,insulin,alive,over 40
+218,non-insulin,dead,40 or under
+311,non-insulin,alive,40 or under
+104,insulin,dead,40 or under
+124,insulin,alive,40 or under
