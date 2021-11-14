@@ -1,5 +1,7 @@
-count,exposure,casecon
-62,slept on front,case
-76,slept on front,control
-5,did not sleep on front,case
-55,did not sleep on front,control
+count,exposure,outcome
+30,slept on front,case
+24,slept on front,control
+76,slept on side,case
+241,slept on side,control
+82,slept on back,case
+509,slept on back,control

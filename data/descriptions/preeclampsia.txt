@@ -1,20 +1,25 @@
-title='Pre-eclampsia and Eclampsia and Hypertension in later life'
+title: Pre-eclampsia and Eclampsia and Hypertension in later life
 
-description='Results of a cohort study looking at the association between
-             pre-eclampsia and eclampsia during a woman's first pregnancy, and
-             the development of hypertension in later life'
+description:
+    Results of a cohort study looking at the association between
+    pre-eclampsia and eclampsia during a woman's first pregnancy, and
+    the development of hypertension in later life.
 
-references='Wilson, B. J., Watson, M. S., Prescott, G. J., Sunderland,
-            S., Campbell, D. M., Hannaford, P., & Smith, W. C. S. (2003).
-            Hypertensive diseases of pregnancy and risk of hypertension and
-            stroke in later life: results from cohort study. BMJ, 326(7394),
-            845-849. https://doi.org/10.1136/bmj.326.7394.845'
-
-has_bibtex=True@Wilson2003
+reference: https://www.bmj.com/content/326/7394/845
 
 fields:
-    count, int: Number of observation.
-    exposure, str: Pre-eclampsia and eclampsia during first pregnancy.
-                   One of either ['pre-eclampsia', 'no pre-eclampsia'].
-    outcome, str: Hypertension in later life.
-                  One of either ['hypertension', 'no hypertension'].
+    count:
+        type: int
+        desc: Number of observations
+    exposure:
+        type: str
+        desc: Pre-eclampsia and eclampsia during first pregnancy
+        values:
+            - pre-eclampsia
+            - no pre-eclampsia
+    outcome
+        type: str
+        desc: Hypertension in later life
+        values:
+            - hypertension
+            - no hypertension
